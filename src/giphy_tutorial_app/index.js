@@ -1,4 +1,4 @@
-const tutorialApp = "giphy_tutorial_elementor-sandbox";
+const tutorialApp = "giphy_tutorial_app";
 const siteURL = "https://sage-bubble-fibula.glitch.me/";
 
 export default {
